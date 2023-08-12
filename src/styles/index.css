@@ -1,0 +1,16 @@
+html{
+  box-sizing: border-box;
+  font-size: 62.5%;
+
+}
+
+body{
+  /* font-family: var(--fuentePrincipal  ); */
+  font-size: 1.6rem;
+  line-height: 1.5;
+  background-color: #dbd5d5;
+}
+a{
+  text-decoration: none;
+}
+
